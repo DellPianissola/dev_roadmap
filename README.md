@@ -63,6 +63,7 @@ Construir uma **loja de computadores**, onde será possível:
 ---
 
 ## 📚 Recursos Úteis
+- [Introdução ao HTML](https://www.youtube.com/watch?v=P0EGYTb1cBs&list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) - Curso gratuito de HTML completo (em inglês) 
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/) – Referência oficial de HTML, CSS e JS  
 - [FreeCodeCamp](https://www.freecodecamp.org/) – Cursos gratuitos de programação  
 - [W3Schools](https://www.w3schools.com/) – Tutoriais rápidos  
